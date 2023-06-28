@@ -1,0 +1,9 @@
+#header{
+    display: flex;
+    background-color: rgba(73, 122, 248, 1);
+    align-items: center;
+    border-radius: 0px 0px 45px 45px;
+}
+#name{
+    font-size: 4em;
+}
